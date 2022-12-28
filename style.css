@@ -157,6 +157,7 @@ main {
         padding-left: 0em;
         padding-top: 1em;
         padding-bottom: 0.4em;
+        font-weight: 700;
     }
 
     .para {
@@ -202,6 +203,14 @@ main {
         position: absolute;
         right: 80px;
         top: 200px;
+    }
+    
+    .heading h2 {
+        font-size: 1.1em;
+    }
+    
+    .heading p {
+        font-size: 0.9em;
     }
 
     .cards {
