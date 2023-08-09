@@ -1,3 +1,3 @@
 # Social proof section
 
-### Simple Social proof section, built with HTML and CS
+### Simple Social proof section, built with HTML and CSS
